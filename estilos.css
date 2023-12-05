@@ -1,17 +1,9 @@
-table{background-color: whitesmoke;width: 800px;margin-left:auto;margin-right: auto;}
-td{border-style: solid;border-color: black;}
-th{font-size: 25px;font-family: Arial;}
-.titulo{font-size: 100px;font-family: "Arial black";}
-.imgprin{width:800px;height:750px; }
-.nikeblue{width:90px;height:80px}
-.nikered{width: 150px;height:80px}
-.niketravis{width: 100px;height:70px}
-.nikedior{width: 90px;height: 100px}
-.redes{width:70px;height: 60px}
-.nike{font-size: 15px;font-family: "arial black";}
-.subutitulo{font-size: 50px; font-family:"arial black" }
-.titulo2{font-size: 65px;font-family: "Arial black";}
-.informacion{font-size:15px;}
-.pri{width: 550px;height: 350px;}
-.gris{width: 400px;height: 350}
-.intro{width: 900px;margin-left: auto;margin-right: auto;}
+table{background-color: #gray;width: 800px;;margin-left: auto;margin-right: auto;}
+td{border-style:solid;border-color: white;}
+th{font-size: 25px;fon t-family: Arial;}
+.titulo{font-size: 100px;fon t-family: "Bookman Old Style"; color: black}
+.derecho{font-size: 20px;font-family:Bookman Old Style }
+.imgprin{widht:55s0px;height: 550px}
+.prd{widht:200px;height:150px}
+.estilos{widht:50 px;height:50px}
+.centrar{text-align: center; font-family: "Century Gothic";}
